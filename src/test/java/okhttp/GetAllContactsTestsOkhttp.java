@@ -1,0 +1,6 @@
+package okhttp;
+
+public class GetAllContactsTestsOkhttp {
+    String token = "eyJhbGciOiJIUzI1NiJ9.eyJyb2xlcyI6WyJST0xFX1VTRVIiXSwic3ViIjoidGVzdHVzZXJAdGVzdC5jb20iLCJpc3MiOiJSZWd1bGFpdCIsImV4cCI6MTc4MzExMjM2NiwiaWF0IjoxNzgyNTEyMzY2fQ.PY2zvSiG9lMRyf1G8UikDvNx2QHL85dRHrMdLNGP6_A";
+
+}
